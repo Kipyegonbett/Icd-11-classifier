@@ -1,0 +1,12 @@
+
+streamlit
+plotly
+tensorflow
+numpy
+pandas
+regex
+pickle-mixin
+scikit-learn
+opt_einsum
+protobuf
+typing-extensions
